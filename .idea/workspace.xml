@@ -34,6 +34,31 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1675134659" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="hotfix" />
+                    <option name="lastUsedInstant" value="1675134361" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -175,7 +200,7 @@
       <workItem from="1673331037083" duration="75000" />
       <workItem from="1673331124341" duration="60000" />
       <workItem from="1673424600910" duration="44000" />
-      <workItem from="1675130435199" duration="1423000" />
+      <workItem from="1675130435199" duration="2211000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1672106277908</created>
