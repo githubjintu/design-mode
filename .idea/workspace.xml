@@ -109,7 +109,7 @@
       <recent name="com.design.memorandum14" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo (3)">
+  <component name="RunManager">
     <configuration name="Demo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.design.command19.Demo" />
       <module name="desionPatterns" />
