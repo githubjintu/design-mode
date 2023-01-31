@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe98f580-d112-4d58-92cb-70a7721c8618" name="Changes" comment="1" />
+    <list default="true" id="fe98f580-d112-4d58-92cb-70a7721c8618" name="Changes" comment="1">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,7 +27,7 @@
         <entry key="$PROJECT_DIR$/.." value="master" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -200,7 +203,7 @@
       <workItem from="1673331037083" duration="75000" />
       <workItem from="1673331124341" duration="60000" />
       <workItem from="1673424600910" duration="44000" />
-      <workItem from="1675130435199" duration="2211000" />
+      <workItem from="1675130435199" duration="5674000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1672106277908</created>
